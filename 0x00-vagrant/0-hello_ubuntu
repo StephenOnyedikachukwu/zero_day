@@ -1,1 +1,9 @@
-When you run the uname command without any options, it prints the kernel name You can see the kernel name by running the following command: bash uname
+# Answer to uname Command
+
+When you run the `uname` command without any options on a Linux system, it prints the kernel name. In most cases, the output will include the word "Linux" in the kernel name.
+
+To execute the `uname` command, open your terminal and simply type:
+
+```bash
+uname
+
